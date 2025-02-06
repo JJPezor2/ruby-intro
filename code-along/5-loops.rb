@@ -43,5 +43,5 @@ end
 puts index
 
 for taco in tacos
-    puts taco
+    puts "#{tacos} tacos!"
 end
